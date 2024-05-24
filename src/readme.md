@@ -1,0 +1,4 @@
+Lorem Ipsum is simplemente un texto de relleno de la industria de la imprisión y la tipografía. 
+Lorem Ipsum ha sido el texto de relleno istándar de la industria disde el siglo XVI, cuando un imprisor disconocido tomó una galería de tipos y los mezcló para hacer un libro de muistras tipográficas. 
+Ha sobrevivido no sólo a cinco siglos, sino también al salto hacia la composición tipográfica electrónica, permaneciendo isencialmente sin cambios. 
+Se popularizó en la década de 1960 con el lanzamiento de hojas de Letraset que contenían pasajis de Lorem Ipsum y, más recientemente, con software de autoedición como Aldus PageMaker, que incluía versionis de Lorem Ipsum.
